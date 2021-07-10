@@ -25,10 +25,10 @@
   },
   "engineStrict": true,
   "devDependencies": {
-    "@grafana/data": "^7.5.7",
-    "@grafana/runtime": "^7.5.7",
-    "@grafana/toolkit": "^7.5.7",
-    "@grafana/ui": "^7.5.7",
+    "@grafana/data": "8.0.2",
+    "@grafana/runtime": "8.0.2",
+    "@grafana/toolkit": "8.0.2",
+    "@grafana/ui": "8.0.2",
     "@types/lodash": "^4.14.169",
     "@types/react-virtualized-auto-sizer": "^1.0.0"
   },
