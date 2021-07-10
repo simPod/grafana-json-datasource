@@ -28,7 +28,7 @@
     "@grafana/data": "8.0.2",
     "@grafana/runtime": "8.0.2",
     "@grafana/toolkit": "8.0.2",
-    "@grafana/ui": "8.0.2",
+    "@grafana/ui": "8.0.3",
     "@types/lodash": "^4.14.169",
     "@types/react-virtualized-auto-sizer": "^1.0.0"
   },
