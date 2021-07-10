@@ -55,3 +55,9 @@ export interface MultiValueVariable extends VariableModel {
   current: TextValuePair;
   options: TextValuePair[];
 }
+
+declare module 'react' {
+  interface DOMAttributes<T> {
+    css?: InterpolationWithTheme<any>;
+  }
+}
